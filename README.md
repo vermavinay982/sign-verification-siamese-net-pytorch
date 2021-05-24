@@ -10,23 +10,18 @@ Here, Euclidean Distance is used for Pairwise Distance.
 
 Paper Reference: https://arxiv.org/pdf/1707.02131.pdf
 
-![Structure](https://miro.medium.com/max/1690/1*0E9104t29iMBmtvq7G1G6Q.png)
+![Structure](net_sign.png)
 
-
+## Ouputs
 ![img](outputs/img.png)
+![img](outputs/img1.png)
+![img](outputs/img2.png)
+![img](outputs/img3.png)
+![img](outputs/img4.png)
+![img](outputs/img5.png)
+![img](outputs/img6.png)
+![img](outputs/img7.png)
+![img](outputs/img8.png)
+![img](outputs/img9.png)
+![img](outputs/img10.png)
 
-![img2]("outputs/img.png 2")
-
-![img](outputs/img.png 3)
-
-![img](outputs/img.png 4)
-
-![img](outputs/img.png 5)
-
-![img](outputs/img.png 6)
-
-![img](outputs/img.png 7)
-
-![img](outputs/img.png 8)
-
-![img](outputs/img.png 9)
